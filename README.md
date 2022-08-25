@@ -5,9 +5,8 @@
   - 1.2 NumPy
   - 1.3 Pandas
   - 1.4 Matplotlib
-  - 1.5 Pandas
-  - 1.6 SciPy
-  - 1.7 scikit-learn
+  - 1.5 SciPy
+  - 1.6 scikit-learn
 - 2.0 Working with NHS Data
 - 3.0 Data Science workflow
   - 3.1 Descriptive Statistics
