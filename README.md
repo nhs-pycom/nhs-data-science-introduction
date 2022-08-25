@@ -1,15 +1,13 @@
 # nhs-data-science-introduction
 
 - 1.0 Python for Data Science
-  - 1.1 SciPy
-  - 1.2 scikit-learn
-  - 1.3 Python Basics
-  - 1.4 NumPy
+  - 1.1 Python Basics
+  - 1.2 NumPy
+  - 1.3 Pandas
+  - 1.4 Matplotlib
   - 1.5 Pandas
-  - 1.6 Matplotlib
-  - 1.7 Pandas
-  - 1.8 SciPy
-  - 1.9 scikit-learn
+  - 1.6 SciPy
+  - 1.7 scikit-learn
 - 2.0 Working with NHS Data
 - 3.0 Data Science workflow
   - 3.1 Descriptive Statistics
