@@ -19,19 +19,19 @@
   - 3.5 Evaluate Model Performance
   - 3.6 Test-Train
   - 3.7 Cross Validation 
-    - 3.7.1 Algorithm Performance Metrics 
-    - 3.7.2 Classification Algorithms 
-  - 3.8 Regression Algorithms
+  - 3.8 Algorithm Performance Metrics 
+    - 3.8.1 Classification Algorithms 
+    - 3.8.2 Regression Algorithms
   - 3.9 Hyper Parameter Tuning
   - 3.10 Automation
   - 3.11 Deployment
 - 4.0 Ethics in Data Science
-- 5.0 Reproducible analytical pipelines
+- 5.0 [Reproducible analytical pipelines](https://github.com/NHSDigital/rap-community-of-practice)
   - 5.1 Coding in the open
-  - 5.2 Open Data
-  - 5.3 Privileged Credentials
-  - 5.4 Sensitive Information
-  - 5.5 Proprietary Information
+    - 5.1.1 Open Data
+    - 5.1.2 Privileged Credentials
+    - 5.1.3 Sensitive Information
+    - 5.1.4 Proprietary Information
   - 5.6 Quality Assurance (QA)
   - 5.7 Documentation
   - 5.8 Modular Code
