@@ -1,1 +1,39 @@
 # nhs-data-science-introduction
+
+- 1.0 Python for Data Science
+  - 1.1 SciPy
+  - 1.2 scikit-learn
+  - 1.3 Python Basics
+  - 1.4 NumPy
+  - 1.5 Pandas
+  - 1.6 Matplotlib
+  - 1.7 Pandas
+  - 1.8 SciPy
+  - 1.9 scikit-learn
+- 2.0 Working with NHS Data
+- 3.0 Data Science workflow
+  - 3.1 Descriptive Statistics
+  - 3.2 Data Visualisation
+  - 3.3 Data Preparation
+  - 3.4 Feature Selection
+  - 3.5 Evaluate Model Performance
+  - 3.6 Test-Train
+  - 3.7 Cross Validation 
+    - 3.7.1 Algorithm Performance Metrics 
+    - 3.7.2 Classification Algorithms 
+  - 3.8 Regression Algorithms
+  - 3.9 Hyper Parameter Tuning
+  - 3.10 Automation
+  - 3.11 Deployment
+- 4.0 Ethics in Data Science
+- 5.0 Reproducible analytical pipelines
+  - 5.1 Coding in the open
+  - 5.2 Open Data
+  - 5.3 Privileged Credentials
+  - 5.4 Sensitive Information
+  - 5.5 Proprietary Information
+  - 5.6 Quality Assurance (QA)
+  - 5.7 Documentation
+  - 5.8 Modular Code
+  - 5.9 Unit Testing
+  - 5.10 Tidy Data
