@@ -23,6 +23,8 @@
   - 3.10 Automation
   - 3.11 Deployment
 - 4.0 Ethics in Data Science
+  - 4.1 Algorithmic Bias
+  - 4.2 Privacy, Transparency and Trust
 - 5.0 [Reproducible analytical pipelines](https://github.com/NHSDigital/rap-community-of-practice)
   - 5.1 Coding in the open
     - 5.1.1 Open Data
